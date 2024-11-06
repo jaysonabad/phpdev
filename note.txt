@@ -7,3 +7,4 @@ sudo cp -R /home/thesayangtis/Noysoft/computerlab/webdev/phpdev /var/www/html
   git status
   git commit -m "comment"
   git remode add origin "your_url"
+  git push -f origin branch
