@@ -8,6 +8,7 @@ sudo cp -R /home/thesayangtis/Noysoft/computerlab/webdev/phpdev /var/www/html
   git branch -d <branch> // to delete branch
   git init
   git status
+  git add .
   git commit -m "comment"
   git remote add origin "your_url"
   git push -f origin branch
