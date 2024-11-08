@@ -5,6 +5,7 @@ sudo cp -R /home/thesayangtis/Noysoft/computerlab/webdev/phpdev /var/www/html
 # git commands
   git switch -c <new-branch-name>
   git checkout // to create new branch
+  git branch -d <branch> // to delete branch
   git init
   git status
   git commit -m "comment"
