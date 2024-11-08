@@ -3,6 +3,8 @@ sudo /opt/lampp/lampp stop
 sudo cp -R /home/thesayangtis/Noysoft/computerlab/webdev/phpdev /var/www/html
 
 # git commands
+  git switch -c <new-branch-name>
+  git checkout // to create new branch
   git init
   git status
   git commit -m "comment"
